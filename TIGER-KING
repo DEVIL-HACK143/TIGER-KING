@@ -99,7 +99,7 @@ def menu_login():
 	print banner
 	print("[1] Login With Access Token")
 	print("[2] Login With Fb Password")
-	print("[0] Direct Exir")
+	print("[0] Direct Exit")
 	print(50*"-")
 	menu_login2() 
 def menu_login2():
